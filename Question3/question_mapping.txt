@@ -1,0 +1,8 @@
+step1 - use the fs module
+strp 2- run command remove txt files all the files needs to be wiped from the logs directory 
+step 3 - run command createfiles needs to add atleast min 10 txt files 
+step 4 - log the files created and delted in console.....
+
+
+
+

@@ -18,7 +18,6 @@ const  lowerCaseWords = ((arr) =>{
 });
 
 
-
 const mixedArr = ['PIZZA', 10, true, 'Artifact', false, 'Js'];
 
 
